@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "627111118677",
+    "firebase_url": "https://lostfound-f530a-default-rtdb.firebaseio.com",
+    "project_id": "lostfound-f530a",
+    "storage_bucket": "lostfound-f530a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627111118677:android:9d4f435fff2be6ef1351dc",
+        "android_client_info": {
+          "package_name": "com.bitbani.lost_found_pet_prototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627111118677-sbh2ci29fij91p3uquetblmi6j8bss6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdO9hh-W8HzF6OcANn7tAKNuonfJOsXEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627111118677-sbh2ci29fij91p3uquetblmi6j8bss6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
